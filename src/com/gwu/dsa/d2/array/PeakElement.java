@@ -4,7 +4,7 @@ class PeakElementSolution {
 
     /**
      *
-     * Time complexity of this solution in worst case is O(n).
+     * Time complexity of this solution in worst case is O(n) where n is the total number of elements in the array.
      * @param ar
      * @param n
      * @return
