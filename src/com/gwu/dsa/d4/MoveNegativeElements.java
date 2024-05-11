@@ -1,5 +1,7 @@
 package com.gwu.dsa.d4;
 
+//https://www.geeksforgeeks.org/problems/move-all-negative-elements-to-end1813/1
+
 class MoveNegativeElementsSolution {
 
     public void segregateElements(int ar[], int n) {
